@@ -81,4 +81,4 @@ Links:
 Este projeto é de uso livre e pode ser utilizado para fins educacionais. Sinta-se à vontade para modificar e adaptar o código conforme necessário.
 
 ## 👤 Autor
-- Nome: [Rafael Cerqueira](https://github.com/rafaelcerqueira)
+[Rafael Cerqueira](https://github.com/rafaelcerqueira)
